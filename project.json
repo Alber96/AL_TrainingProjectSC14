@@ -3,6 +3,8 @@
   "description": "All the projects",
   "main": "Main.xaml",
   "dependencies": {
+    "Microsoft.Activities.Extensions": "[2.0.6.9]",
+    "Microsoft.Database.Collections.Generic": "[2.0.3]",
     "UiPath": "[22.4.38.42025]",
     "UiPath.Excel.Activities": "[2.12.3]",
     "UiPath.Form.Activities": "[1.9.6]",
@@ -15,7 +17,7 @@
     "UiPath.UIAutomation.Activities": "[22.4.4]",
     "UiPath.Vision": "[3.3.0]",
     "UiPath.Word.Activities": "[1.10.1]",
-    "Xceed.Document.NET": "[2.0.21359.11160]"
+    "Xceed.Document.NET": "[2.3.22263.20500]"
   },
   "webServices": [],
   "entitiesStores": [],
